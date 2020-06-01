@@ -7,4 +7,4 @@ def my_collect(array)
  lang.upper
 end
   
-
+end
